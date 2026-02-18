@@ -2,3 +2,8 @@
 	path = lis2dh12_STdC/driver
 	url = https://github.com/cropx/lis2dh12-pid
 	branch = master
+
+[submodule "lps22hb_STdC/driver"]
+	path = lps22hb_STdC/driver
+	url = https://github.com/STMicroelectronics/lps22hb-pid
+	branch = master
